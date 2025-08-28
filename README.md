@@ -6,6 +6,11 @@ It allows **teachers and students** to interact in a virtual classroom with func
 
 ---
 
+## Frontend Development Notice
+
+The frontend of this project was initially generated with the assistance of AI (ChatGPT/GPT-5 by OpenAI).  
+I have reviewed, modified, and adapted the code as necessary for this project.  
+
 ## ✨ Features
 
 ### 👩‍🏫 Teacher Features
