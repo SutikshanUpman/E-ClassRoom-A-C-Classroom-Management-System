@@ -4,12 +4,6 @@
 E-ClassRoom is a **console-based classroom management system** implemented in **C++ using Object-Oriented Programming (OOP) principles**.  
 It allows **teachers and students** to interact in a virtual classroom with functionalities like **registration, login, course management, assignments, submissions, announcements, and grading**.
 
----
-
-## Frontend Development Notice
-
-The frontend of this project was initially generated with the assistance of AI (ChatGPT/GPT-5 by OpenAI).  
-I have reviewed, modified, and adapted the code as necessary for this project.  
 
 ## ✨ Features
 
