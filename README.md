@@ -77,12 +77,6 @@ g++ -std=c++17 Eva.cpp -o Eva
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 🙏 Acknowledgments
 
 Inspired by tools like **Google Classroom** and **Moodle**, this educational tool was developed for academic demonstration purposes. Special thanks to peers and faculty for support during development.
